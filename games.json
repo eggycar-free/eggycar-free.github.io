@@ -3,5 +3,45 @@
         "name": "Eggy Car",
         "slug": "eggy-car",
         "image": "/cache/data/image/game/eggy-car/eggy-car-m186x186.webp"
+    },
+    {
+        "name": "Hill Climb Race",
+        "slug": "hill-climb-race",
+        "image": "/cache/data/image/game/hill-climb-race/hill-climb-race-m186x186.webp"
+    },
+    {
+        "name": "Hill Climb Race Egg",
+        "slug": "hill-climb-race-egg",
+        "image": "/cache/data/image/game/hill-climb-race-egg/hill-climb-race-egg1-m186x186.webp"
+    },
+    {
+        "name": "Hill Climb Racing 2",
+        "slug": "hill-climb-racing-2",
+        "image": "/cache/data/image/game/hill-climb-racing-2/hill-climb-racing-2-m186x186.webp"
+    },
+    {
+        "name": "Hill Climb Moto 2D",
+        "slug": "hill-climb-moto-2d",
+        "image": "/cache/data/image/game/hill-climb-moto-2d/hill-climb-moto-2d-m186x186.webp"
+    },
+    {
+        "name": "Hill Climb Pixel Car",
+        "slug": "hill-climb-pixel-car",
+        "image": "/cache/data/image/game/hill-climb-pixel-car/hill-climb-pixel-car2-m186x186.webp"
+    },
+    {
+        "name": "Noob Racer: Hill Climb",
+        "slug": "noob-racer-hill-climb",
+        "image": "/cache/data/image/game/noob-racer-hill-climb/noob-racer-hill-climb-m186x186.webp"
+    },
+    {
+        "name": "Egg Hill Climb",
+        "slug": "egg-hill-climb",
+        "image": "/cache/data/image/game/egg-hill-climb/egg-hill-climb-m186x186.webp"
+    },
+    {
+        "name": "Crazy Hills",
+        "slug": "crazy-hills",
+        "image": "/cache/data/image/game/crazy-hills/crazy-hills-m186x186.webp"
     }
 ]
